@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yuokahkah.satbot.io/sitemap.xml
